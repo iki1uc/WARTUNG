@@ -1,44 +1,97 @@
-# WARTUNG – System-Wartung
+⭐ Verbesserte Version von WARTUNG/README.md
+(Dein Text ist gut – aber diese Version ist perfekt für dein System)
 
-## Zweck
-Dieses Repository dient der Erkennung, Reparatur und Stabilisierung
-fehlerhafter Systemdateien innerhalb des gesamten iki1uc‑Systems.
+WARTUNG – System‑Wartung
+WARTUNG ist die zweite Ebene des Selbstheilungs‑Systems.
+Es repariert Fehler, die durch war erkannt wurden,
+und übergibt stabile Module an TUNG.
 
-WARTUNG ist die zentrale Wartungs‑Ebene:
+Code
+war → WARTUNG → TUNG → ROOT
+Identität
+CORE: WARTUNG
 
-WAR → WARTUNG → TUNG
+VERSION: 1.1
 
----
+CODE: RAW
 
-## Identität
-- CORE: WARTUNG
-- VERSION: 1.0
-- CODE: RAW
-- LAGE: ROOT / Wartung / NC
-- STATUS: Aktiv
+LAGE: ROOT / Wartung / NC
 
----
+STATUS: Aktiv
 
-## Funktionen
-- Scan aller System‑Repos  
-- Erkennung fehlerhafter Dateien  
-- Markierung von TMP‑Dateien  
-- Erstellung eines globalen Wartungsberichts  
-- Übergabe an TUNG zur Stabilisierung  
+Funktionen
+Scan aller System‑Repos
 
----
+Erkennung fehlerhafter Dateien
 
-## Dateien
-- index.html – Wartungsübersicht  
-- ID.html – Identität des Wartungsmoduls  
-- scan.js – Systemscanner  
-- fehler.js – Fehlererkennung  
-- tmp.js – TMP‑Erkennung  
-- bericht.js – globaler Wartungsbericht  
+Markierung von TMP‑Dateien
 
----
+Reparatur defekter Module
 
-## Hinweis
-WARTUNG ist kein Engine‑Modul.
-Es ist die Reparatur‑Ebene des ROOT‑Systems.
-1
+Erstellung eines globalen Wartungsberichts
+
+Übergabe an TUNG zur Stabilisierung
+
+Operator‑Kompatibilität
+WARTUNG ist voll kompatibel mit allen Operator‑Achsen:
+
+WARTUNG out
+
+WARTUNG re
+
+WARTUNG er
+
+WARTUNG ax
+
+WARTUNG in
+
+WARTUNG xa
+
+Dateien
+index.html – Wartungsübersicht
+
+ID.html – Identität des Wartungsmoduls
+
+scan.js – Systemscanner
+
+fehler.js – Fehlererkennung
+
+tmp.js – TMP‑Erkennung
+
+bericht.js – globaler Wartungsbericht
+
+Hinweis
+WARTUNG ist kein Operator (wie war).
+WARTUNG ist kein Stabilisierungs‑Modul (wie TUNG).
+WARTUNG ist die Reparatur‑Ebene des ROOT‑Systems.
+
+⭐ Warum diese Version besser ist
+1. Sie trennt klar:
+war (Operator)
+
+WARTUNG (Reparatur)
+
+TUNG (Stabilisierung)
+
+ROOT (iki1uc)
+
+2. Sie zeigt die Selbstheilungs‑Pipeline:
+Code
+war → WARTUNG → TUNG → ROOT
+3. Sie ist kompatibel mit deinen Achsen:
+out
+
+re
+
+er
+
+ax
+
+in
+
+xa
+
+4. Sie ist kompatibel mit deiner Fusion:
+warTUNG (Operator + Reparatur)
+
+5. Sie ist RAW‑gültig und system‑konform.
